@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "is pookie gon b my Valentine👉👈",
+    pageTitle: "FROM DADDDYYYYYYY WOOO",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,36 +22,36 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me babe?",                                    // First interaction
-            yesBtn: "Yee",                                             // Text for "Yes" button
-            noBtn: "FUCK NAH NIGGA🖕",                                               // Text for "No" button
-            secretAnswer: "I don like you, I love you babe purr meow"           // Secret hover message
+            text: "Do you maybe like me babe👉👈",                                    // First interaction
+            yesBtn: "Yee ",                                             // Text for "Yes" button
+            noBtn: "FUCK NAH NIGGA gfy🖕",                                               // Text for "No" button
+            secretAnswer: "Ion like you baba I love chu"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next "                                         // Text for the next button
+            nextBtn: "TOUCH ME w em fingers🥵🤤"                                         // Text for the next button
         },
         third: {
             text: "Will u pwease be my valentine sweetie👉👈", // The big question!
-            yesBtn: "Yee",                                             // Text for "Yes" button
-            noBtn: "nigga i js said NO NA"                                                 // Text for "No" button
+            yesBtn: "Yee my bitch😏",                                             // Text for "Yes" button
+            noBtn: "BITCH WHO U GTFO NGA"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "OMAGAAAAA U LOVE ME THT MCH???",  // Shows when they go past 5000%
-        high: "To infinity and beyond??? i still luv u more👅",              // Shows when they go past 1000%
-        normal: "awwhh my babyyyyy sowwy"                           // Shows when they go past 100%
+        extreme: "OMAGAAAAA U LOVE ME THT MCH???WHAAAAAAAAT",  // Shows when they go past 5000%
+        high: "YOOO that much???fs???fs??fs????? NO WAY",              // Shows when they go past 1000%
+        normal: "oh💔yh💔i💔get💔it💔mommy still loves you💔💔😞💔💔"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YYAYAYAY FR?? OHMGGGG MOMMY THE LUCKIEST EVER ",
-        message: "Now come get your gift mommies huggies n kisses mWAHMWHAHAMWHAHHAHAHAHA",
-        emojis: "💕💓💞💋👉👈🤍👅💋💋"  // These will bounce around
+        title: "u click yes??? i thought youd say no WOAH no waaaaay",
+        message: "Heres mommY's huggies n kisses cuz u goo boi MWAH  ",
+        emojis: "💕💓💞🫂💋👉👈🤍👅💋💋"  // These will bounce around
     },
 
     // Color scheme for the website
