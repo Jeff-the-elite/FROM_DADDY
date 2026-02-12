@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "Will u pwease be my valentine sweetie👉👈", // The big question!
-            yesBtn: "Yee my bitch ofc😏",                                             // Text for "Yes" button
+            yesBtn: "Yee my bitch *wink* ",                                             // Text for "Yes" button
             noBtn: "BITCH WHO U GTFO NGA"                                                 // Text for "No" button
         }
     },
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "WOOOO i love you so much I'd eat up lizards if u hate em",
-        message: "Heres mommys huggies n kisses cuz u her goo boi MWAH phooooo ",
+        title: "WOOOO i love ya sm I'd eat up lizards if u scared of em",
+        message: "Here u go huggs n kissies cuz u her goo boi MWAH phooooo ",
         emojis: "💕🖤love you smm boo🤍💞💓"  // These will bounce around
     },
 
@@ -59,7 +59,7 @@ const CONFIG = {
     colors: {
         backgroundStart: "#D17D98",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#D25353",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#FFAAB8",     // Button color (should stand out against the background)
+        buttonBackground: "#740A03",     // Button color (should stand out against the background)
         buttonHover: "#FFD8DF",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#740A03"             // Text color (make sure it's readable!)
     },
