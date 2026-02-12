@@ -25,16 +25,16 @@ const CONFIG = {
             text: "Do you maybe like me babe👉👈",                                    // First interaction
             yesBtn: "Yee ",                                             // Text for "Yes" button
             noBtn: "FUCK NAH NIGGA gfy🖕",                                               // Text for "No" button
-            secretAnswer: "Ion like you baba I love chu"           // Secret hover message
+            secretAnswer: "I DON LIKE YOU BABA I LOVE CHU"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "TOUCH ME w em fingers🥵🤤"                                         // Text for the next button
+            nextBtn: "TOUCH ME w em fingers🤤"                                         // Text for the next button
         },
         third: {
             text: "Will u pwease be my valentine sweetie👉👈", // The big question!
-            yesBtn: "Yee my bitch😏",                                             // Text for "Yes" button
+            yesBtn: "Yee my bitch ofc😏",                                             // Text for "Yes" button
             noBtn: "BITCH WHO U GTFO NGA"                                                 // Text for "No" button
         }
     },
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "u click yes??? i thought youd say no WOAH no waaaaay",
-        message: "Heres mommY's huggies n kisses cuz u goo boi MWAH  ",
-        emojis: "💕💓💞🫂💋👉👈🤍👅💋💋"  // These will bounce around
+        title: "WOOOO i love you so much I'd eat up lizards if u hate em",
+        message: "Heres mommys huggies n kisses cuz u her goo boi MWAH phooooo ",
+        emojis: "💕💓💞💋👉👈🤍👅💋💋"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -67,10 +67,10 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "13s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "12s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.6s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+        bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        heartExplosionSize: 1.6         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://collection.cloudinary.com/dhq366ptf/480a94997218f11a8cdf810fc5a1cfac", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
