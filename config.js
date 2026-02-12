@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Nanduuuuhhh🦅",
+    valentineName: "Nanduuuuhhh🦅hhhhhhhhhhhhhhhhhhhhhhh",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "Will u pwease be my valentine sweetie👉👈", // The big question!
-            yesBtn: "Yee my bitch *wink* ",                                             // Text for "Yes" button
+            yesBtn: "Yee my bitch *winks like Nick Wilde* ",                                             // Text for "Yes" button
             noBtn: "BITCH WHO U GTFO NGA"                                                 // Text for "No" button
         }
     },
@@ -44,12 +44,12 @@ const CONFIG = {
     loveMessages: {
         extreme: "OMAGAAAAA U LOVE ME THT MCH???WHAAAAAAAAT",  // Shows when they go past 5000%
         high: "YOOO that much???fs???fs??fs????? NO WAY",              // Shows when they go past 1000%
-        normal: "oh💔yh💔i💔get💔it💔mommy still loves you💔💔😞💔💔"                           // Shows when they go past 100%
+        normal: "oh💔yh💔i💔get💔it💔mommy still loves you tho💔💔😞💔💔"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "WOOOO i love ya sm I'd eat up lizards if u scared of em",
+        title: "WOOOO YOU SAID YES????? NO FREAKING WAY?????? OH MY GA FAAAAHHH",
         message: "Here u go huggs n kissies cuz u her goo boi MWAH phooooo ",
         emojis: "💕🖤love you smm boo🤍💞💓"  // These will bounce around
     },
